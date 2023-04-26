@@ -7,7 +7,7 @@ const research = [
 {
         title : "In Order to Live: A North Korean Girl's Journey to Freedom",
         authors : "Yeonmi Park",
-        conferences : "Genre- Autobiography",
+        conferences : "Genre - Autobiography",
         researchYr : "North Korea",
         citebox : "popup1",
         image : "https://i.imgur.com/qxYJYKv.jpg",
@@ -21,7 +21,7 @@ const research = [
     {
         title : "The Alchemist",
         authors : "Paulo Coelho",
-        conferences : "",
+        conferences : "Genre - Fiction",
         researchYr : "Brazil",
         citebox : "popup2",
         image : "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
